@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/oop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "beautiful flower environment";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Finance Tracker Application🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is finance application in which you can add, delete or edit your amount.",
+    url: "https://github.com/shivamku65/Finance__TRACKER.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "A Tribute Webpage",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A webpage in which all details of a famous scientist like their awards ,life journey,  t.",
+    url: "https://github.com/shivamku65/OIBSIP-TASK-2",
   },
   {
-    title: "My Resume Site",
+    title: "Geek-O-Lympics-2023",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A application in which all olympics records are available , all countries teams and player's name in which year they should won or lose also available.",
+    url: "https://github.com/shivamku65/Geek-O-Lympics-2023",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "TO-DO LIST",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An application in which you can add some relevant details also perform some operations like edit or delete.",
+    url: "https://github.com/shivamku65/OIBSIP-TASK-3",
   },
 ];
 
